@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RecyclerView DragDrop Kotlin</string>
+
+    <string-array name="country_name">
+        <item>Pakistan</item>
+        <item> Brazil</item>
+        <item> Nigeria</item>
+        <item> Bangladesh</item>
+        <item> Russia</item>
+        <item> Mexico</item>
+        <item> Japan</item>
+        <item> Ethiopia</item>
+        <item> Philippines</item>
+        <item> Egypt</item>
+        <item>Colombia</item>
+        <item> Spain</item>
+        <item> Uganda</item>
+    </string-array>
+
+    <string-array name="emoji_list">
+        <item>😄</item>
+        <item>😁</item>
+        <item>😆</item>
+        <item>😅</item>
+        <item>😉</item>
+        <item>🤣</item>
+        <item>😀</item>
+        <item>☺</item>
+        <item>😊</item>
+        <item>😇</item>
+        <item>🙂</item>
+        <item>😃</item>
+        <item>🙃</item>
+    </string-array>
+</resources>
